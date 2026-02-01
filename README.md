@@ -3,9 +3,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlexisRodriguezCS/ValentineProposal/main/images/heart.jpg" alt="Grid" style="display:block;margin:auto;" height="500">
 </p>
-<h1 align="center">A Special Message</h1>
+<h1 align="center">A Special Message for Shreya</h1>
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS --> 
 <p align="center">
   <a href="#about">About The Project</a> •
   <a href="#project-structure">Project Structure</a> •
